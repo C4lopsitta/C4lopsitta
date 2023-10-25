@@ -1,8 +1,4 @@
-- Hi, I’m @C4lopsitta
-- I’m interested in web development
-- I’m currently learning a bit of Go and React
-- How to reach me:
-    - Idk why you would want to reach me but here's my website: atomtech.cc
+Hello! I'm @C4lopsitta, I'm a IT student in Italy and a Linux User.
 
 <!---
 C4lopsitta/C4lopsitta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
