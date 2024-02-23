@@ -1,4 +1,4 @@
-Hello! I'm @C4lopsitta, I'm a IT student in Italy and a Linux User.
+Hello! I'm @C4lopsitta, I'm a IT student in Italy and a Linux User. I'm currently learning mobile development for Android through Kotlin and Compose.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="C4lopsitta's Github stats" src="https://github-readme-stats.vercel.app/api?username=c4lopsitta&theme=rose_pine&show_icons=true&border_radius=16"  align="center" />
