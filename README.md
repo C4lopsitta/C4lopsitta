@@ -1,4 +1,4 @@
-Hello! I'm @C4lopsitta, I'm an High School IT Student in Italy and a Programmer at Elemento Cloud.
+Hello! I'm @C4lopsitta, I'm an High School IT Student in Italy and a Programmer at Elemento Cloud.<br/>
 I love Kotlin and I'm currently working on a Kotlin Multiplatform app [for viewing arrivals and departures in Italian railway staitons](https://github.com/c4lopsitta/rfi-timetable-scraper) along other details.
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
