@@ -122,11 +122,11 @@
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">Kotlin</text>
-      <text x="215" y="34" class="lang-name">31.81%</text>
+      <text x="215" y="34" class="lang-name">32.31%</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="31.808758789916208%">
+      <svg data-testid="lang-progress" width="32.30948578398778%">
         <rect
             height="8"
             fill="#A97BFF"
@@ -141,11 +141,11 @@
   </g><g transform="translate(0, 40)">
     <g class="stagger" style="animation-delay: 600ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">Dart</text>
-      <text x="215" y="34" class="lang-name">20.59%</text>
+      <text x="215" y="34" class="lang-name">20.91%</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="20.585208734011626%">
+      <svg data-testid="lang-progress" width="20.90925689193551%">
         <rect
             height="8"
             fill="#00B4AB"
@@ -160,11 +160,11 @@
   </g><g transform="translate(0, 80)">
     <g class="stagger" style="animation-delay: 750ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">HTML</text>
-      <text x="215" y="34" class="lang-name">13.41%</text>
+      <text x="215" y="34" class="lang-name">13.62%</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="13.406370318910055%">
+      <svg data-testid="lang-progress" width="13.617410666492754%">
         <rect
             height="8"
             fill="#e34c26"
@@ -179,11 +179,11 @@
   </g><g transform="translate(0, 120)">
     <g class="stagger" style="animation-delay: 900ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">C++</text>
-      <text x="215" y="34" class="lang-name">12.69%</text>
+      <text x="215" y="34" class="lang-name">12.89%</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="12.687145410160275%">
+      <svg data-testid="lang-progress" width="12.886863865901857%">
         <rect
             height="8"
             fill="#f34b7d"
@@ -198,11 +198,11 @@
   </g><g transform="translate(0, 160)">
     <g class="stagger" style="animation-delay: 1050ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">CMake</text>
-      <text x="215" y="34" class="lang-name">11.59%</text>
+      <text x="215" y="34" class="lang-name">11.78%</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="11.593709726764036%">
+      <svg data-testid="lang-progress" width="11.776215540963275%">
         <rect
             height="8"
             fill="#DA3434"
@@ -216,15 +216,15 @@
     </g>
   </g><g transform="translate(0, 200)">
     <g class="stagger" style="animation-delay: 1200ms">
-      <text data-testid="lang-name" x="2" y="15" class="lang-name">C#</text>
-      <text x="215" y="34" class="lang-name">9.92%</text>
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">PHP</text>
+      <text x="215" y="34" class="lang-name">8.50%</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="9.918807020237818%">
+      <svg data-testid="lang-progress" width="8.500767250718832%">
         <rect
             height="8"
-            fill="#178600"
+            fill="#4F5D95"
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 1500ms;"
